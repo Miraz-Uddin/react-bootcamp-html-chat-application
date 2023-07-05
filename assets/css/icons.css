@@ -1,15 +1,5 @@
 @charset "UTF-8";
 
-/*
- Template Name: Chat App 
- Website: http://www.websbooster.com
- Author: Themesbox
- File: Icons
- */
-/*!
- *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
- *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
- */
 /* FONT PATH
  * -------------------------- */
 @font-face {
@@ -18149,9 +18139,6 @@
   content: "\e620";
 }
 
-/* Typcn Icon */
-@charset "UTF-8";
-
 /* @FONT-FACE loads font into browser */
 @font-face {
   font-family: 'typicons';
@@ -19859,20 +19846,6 @@
   /* '' */
 }
 
-/*# sourceMappingURL=typicons.css.map */
-
-/* ----- Ion Icons ----- */
-/*!
-  Ionicons, v4.4.4
-  Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
-  https://twitter.com/benjsperry  https://twitter.com/ionicframework
-  MIT License: https://github.com/driftyco/ionicons
-
-  Android-style icons originally built by Google’s
-  Material Design Icons: https://github.com/google/material-design-icons
-  used under CC BY http://creativecommons.org/licenses/by/4.0/
-  Modified icons to fit ionicon’s grid from original.
-*/
 
 @font-face {
   font-family: "Ionicons";
